@@ -1,0 +1,79 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f3e9dc; /* Soft clay background color */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url('images/pottery-bg.jpg'); /* Background image with pottery texture */
+  background-size: cover;
+  background-position: center;
+}
+
+.login-container {
+  background-color: rgba(255, 255, 255, 0.9); /* Slight transparency */
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  width: 350px;
+  backdrop-filter: blur(10px); /* Frosted glass effect */
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 26px;
+  color: #8d6748; /* Clay-like color */
+  font-family: 'Georgia', serif; /* Serif font for a handcrafted feel */
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+.input-group label {
+  display: block;
+  font-size: 14px;
+  color: #8d6748;
+  margin-bottom: 8px;
+  font-family: 'Georgia', serif;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #c4b29c; /* Lighter clay color */
+  font-size: 16px;
+  background-color: #fefefe;
+}
+
+.login-btn {
+  width: 100%;
+  padding: 12px;
+  background-color: #8d6748;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  font-family: 'Georgia', serif;
+}
+
+.login-btn:hover {
+  background-color: #a57c5b; /* Slightly lighter clay color */
+  transform: scale(1.02); /* Slight zoom effect */
+}
+
+.login-btn:active {
+  background-color: #6f4e35; /* Darker shade for click feedback */
+}
+
+.login-container p {
+  text-align: center;
+  color: #8d6748;
+  font-family: 'Georgia', serif;
+  margin-top: 20px;
+}
