@@ -1,5 +1,5 @@
 # Art-Heaven
- Art-Heaven is a static and responsive website designed to sell pottery online. It leverages a combination of HTML, CSS, and JavaScript for the frontend development. Additionally, Font Awesome and Ion Icons libraries are integrated to enhance iconography throughout the site. BY SYED ISMAIL SHAH
+ Art-Heaven is a static and responsive website designed to sell pottery online. It leverages a combination of HTML, CSS, and JavaScript for the frontend development. Additionally, Font Awesome and Ion Icons libraries are integrated to enhance iconography throughout the site. 
  ![image](https://github.com/realismail04/Art-Heaven/assets/151588136/54c07dec-ee2d-4835-a365-29309c109be1)
 
 
@@ -48,5 +48,4 @@ Ion Icons: Offering a diverse range of icons enhancing visual elements.
 Maintenance:
 Regularly update the website's content, styles, and functionalities as needed.
 Check for updates in external libraries (Font Awesome, Ion Icons) for the latest icons and features.
-Support:
-For any queries or support related to it, please contact [[contact details](https://www.linkedin.com/in/theismail04)https://www.linkedin.com/in/theismail04].
+
